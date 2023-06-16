@@ -1,0 +1,22 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.my-2 {
+    margin: 12px 0;
+
+}
+
+.text-align-center{
+    text-align: center;
+}
+.my-3{
+    margin:   5.7px;
+}
+
+.my1{
+    margin: 19px;
+}
